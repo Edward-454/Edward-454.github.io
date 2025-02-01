@@ -8,6 +8,7 @@ author: DEMO
 ---
 
 “Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don’t turn up at all.” — Sam Ewing, author
+
 <!-- more -->
 
 ## START
